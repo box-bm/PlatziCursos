@@ -17,4 +17,18 @@ class Car
     {
         echo 'License: ' . $this->license . 'Driver: ' . $this->driver->name;
     }
+
+    public function getPassenger()
+    {
+        return $this->passenger;
+    }
+
+    public function setPassenger($passenger)
+    {
+        if ($passenger == 4) {
+            $this->passenger = $passenger;
+        } else {
+            echo 'The car can take only 4 passengers';
+        }
+    }
 }
