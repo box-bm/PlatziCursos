@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616996597223",
+    "project_id": "crypto-trader-df18f",
+    "storage_bucket": "crypto-trader-df18f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616996597223:android:aa534c3d25fd5276a62142",
+        "android_client_info": {
+          "package_name": "com.boxmanzog.kotlinfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616996597223-2ld64deff9rk4mvrh459cdmg7jdb3r4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtSFyfG-desMoDObq7XK27-z4398BARnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616996597223-2ld64deff9rk4mvrh459cdmg7jdb3r4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
