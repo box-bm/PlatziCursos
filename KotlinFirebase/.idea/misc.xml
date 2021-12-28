@@ -4,9 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/ic_coin.xml" value="0.16510416666666666" />
-        <entry key="app/src/main/res/layout/activity_login.xml" value="0.12047101449275362" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2682291666666667" />
         <entry key="app/src/main/res/layout/activity_trader.xml" value="0.12047101449275362" />
+        <entry key="app/src/main/res/layout/crypto_row.xml" value="0.1" />
       </map>
     </option>
   </component>

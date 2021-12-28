@@ -1,7 +1,8 @@
-package com.boxmanzog.kotlinfirebase
+package com.boxmanzog.kotlinfirebase.ui.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.boxmanzog.kotlinfirebase.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
